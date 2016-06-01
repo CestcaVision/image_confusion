@@ -1,0 +1,13 @@
+{
+  "name": "image_test",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "images": "^2.1.11",
+    "jpeg-turbo": "^0.4.0",
+    "meteor-node-stubs": "~0.2.0",
+    "node-qrcode": "0.0.4"
+  }
+}
